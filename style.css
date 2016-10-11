@@ -1,0 +1,9 @@
+iframe {
+overflow:hidden;
+position:absolute;
+top:50px;
+left:50px;
+height:500;
+width:500;
+border:0px solid #000;
+}
