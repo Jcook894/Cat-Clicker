@@ -32,7 +32,7 @@ for(var i = 0;i < catArray.length;i++){
   var kitty = catArray[i]
 
 
-$('#KittyName').append(catReplace);
+$('#catList').append(catReplace);
 
 
 
